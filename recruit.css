@@ -1,0 +1,73 @@
+#title1,#title2,#title3{
+	width:1000px;
+	margin:60px auto 40px;
+	text-align:center;
+}
+#title1 img,#title2 img,#title3 img{
+	width:400px;
+}
+#further,#team{
+	width:1000px;
+	margin:0 auto 50px;
+	display:flex;
+}
+#further>img{
+	width:460px;
+}
+#further>p{
+	width:540px;
+	font-size:19px;
+	line-height:38px;
+	color:#868686;
+	text-align:center;
+}
+#team img{
+	width:14%;
+}
+#team .t1{
+	margin-top:75px;
+	height:486px;
+}
+#team .t2{
+	height:486px;
+}
+#team .t3{
+	margin-top:39px;
+	height:342px;
+}
+#team .t4{
+	margin-top:81px;
+	height:403px;
+}
+#team .t5{
+	margin-top:124px;
+	height:312px;
+}
+#team .t6{
+	margin-top:42px;
+	height:478px;
+}
+#team .t7{
+	margin-top:81px;
+	height:312px;
+}
+#join{
+	width:1000px;
+	margin:0 auto 50px;
+	display:flex;
+	justify-content:space-between;
+}
+#join #d1{
+	width:23%;
+}
+#d1 img{
+	width:100%;
+}
+#d1 p{
+	font-size:16px;
+	color:#878787;
+	text-align:center;
+}
+#d1 .p2,#d1 .p3{
+	margin-top:-21px;
+}

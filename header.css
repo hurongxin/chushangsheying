@@ -1,0 +1,158 @@
+#carousel img,#about img{
+	width:100%;
+}
+#about_us{
+	width:1000px;
+	margin:0 auto;
+}
+.leave{
+	font-size:35px;
+	padding-top:30px;
+	color:#000;
+	text-align:center;
+}
+.png{
+	width:376px;
+	display:block;
+	margin:-28px auto 50px;
+}
+#option{
+	width:1314px;
+	text-align:center;
+}
+#option ul{
+	width:800px;
+	margin:0 auto;
+	padding-left:330px;
+}
+#option ul li{
+	float:left;
+	margin-right:40px;
+}
+#option ul li a{
+	color:#686868;
+}
+#option ul li a:hover{
+  color: #CC9042;
+}
+#fugu{
+	width:1000px;
+	margin:0 auto;
+}
+#fugu img{
+	margin-top:50px;
+	width:1000px;
+}
+#classic{
+	width:100%;
+	background:#000;
+}
+#classic .leave{
+	color:#4C4C47;
+	text-align:center;
+}
+.series{
+	padding-left:14px;
+}
+#classic .vice{
+	width:250px;
+	margin-right:15px;
+	margin-bottom:96px;
+}
+#photo img{
+	display:block;
+	margin:-35px auto 0px;
+	width:800px;
+}
+#order{
+	width:1000px;
+	margin:25px auto 0px;
+	text-align:center;
+}
+#order a{
+	display:inline-block;
+	width:175px;
+	height:48px;
+	font-size:16px;
+	background:#CC9042;
+	text-align:center;
+	line-height:48px;
+	padding:2px;
+	border-radius:2px;
+	color:#fff;
+}
+#photographer{
+	width:1000px;
+	margin:0 auto;
+	display:flex;
+	flex-flow:row wrap;
+	justify-content:space-between;
+}
+.pic1,.pic2{
+	width:470px;
+	margin-bottom:77px;
+}
+.pic1:hover,.pic2:hover{
+  box-shadow: -10px -10px #CC9042;
+}
+#photographer .zhang{
+	width:470px;
+}
+.name{
+	font-size:30px;
+	color:#3B3B3B;
+	margin-top:28px;
+}
+.profession{
+	font-size:24px;
+	color:#666666;
+	margin-top:6px;
+}
+.abstract{
+	font-size:17px;
+	color:#999999;
+	margin-top:28px;
+}
+.zhang a,.chen a{
+	display:inline-block;
+	color: #22221D;
+	margin-top:20px;
+}
+.zhang a:hover,.chen a:hover{
+  color:#CC9042;
+}
+#photographer .chen{
+	width:470px;
+	text-align:right;
+}
+#inf{
+	width:1000px;
+	margin:0 auto;
+	display:flex;
+	flex-flow:row wrap;
+	justify-content:space-between;
+}
+#inf .inf_1,#inf .inf_2,#inf .inf_3{
+	width:330px;
+}
+.inf_1 img,.inf_2 img,.inf_3 img{
+	width:330px;
+}
+.inf_1 .inf_p1,.inf_2 .inf_p1,.inf_3 .inf_p1{
+	font-size:18px;
+	text-align:center;
+	margin-top:30px;
+	margin-bottom:20px;
+}
+.inf_1 .inf_p2,.inf_2 .inf_p2,.inf_3 .inf_p2{
+	font-size:14px;
+	color:#666;
+}
+.inf_1 a,.inf_2 a,.inf_3 a{
+	display:block;
+	text-align:right;
+	color:#000;
+}
+#video img{
+	width:100%;
+}

@@ -1,0 +1,41 @@
+#title1,#title2,#title3{
+	width:1000px;
+	margin:100px auto 50px;
+	text-align:center;
+}
+#title1 img,#title2 img,#title3 img{
+	width:390px;
+}
+#store,.customer{
+	width:1000px;
+	margin:0 auto 100px;
+	display:flex;
+	justify-content:space-between;
+}
+.left,.conter,.right,.k1,.k2,.k3{
+	width:300px;
+}
+.left img,.conter img,.right img,.k1 img,.k2 img,.k3 img{
+	width:300px;
+}
+.left p,.conter p,.right p{
+	font-size:14px;
+	color:#6B6B6B;
+	margin-top:50px;
+}
+#location{
+	width:100%;
+	margin-bottom:0;
+}
+#title3{
+	margin-top:0px;
+}
+.k1 p,.k2 p,.k3 p{
+	width:200px;
+	font-size:14px;
+	color:#6B6B6B;
+	margin:-85px 0px 0px 105px;
+}
+.customer{
+	margin-bottom:20px;
+}
